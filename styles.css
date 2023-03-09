@@ -137,8 +137,3 @@ header {
     }
 }
 
-@media screen and (max-width: 330px){
-    .container-left {
-        height: 70%;
-    }
-}
