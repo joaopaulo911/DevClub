@@ -4,7 +4,7 @@
     box-sizing: border-box;
     font-family: 'Oswald', sans-serif;
     font-weight: 400;
-    color: #5D5D7D
+    
 }
 
 .wrapper {
@@ -24,7 +24,7 @@
 .container-right {
     display: inline-block;
     background-color: rgba(93, 93, 125, 0.16);
-    height: 100vh;
+    height: 200vh;
     width: 40%;
     position: absolute;
 }
